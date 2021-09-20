@@ -51,3 +51,9 @@ td {
 tr:nth-child(even) {
     background-color: lavender;
 }
+
+
+.gerald:hover{
+    text-shadow: 2px 2px 4px olive;
+    border: solid 4px orange;
+}
