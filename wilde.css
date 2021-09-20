@@ -1,0 +1,32 @@
+speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+}
+ 
+.stage-direction{
+    font-family: 'Times New Roman';
+    font-size: 18px;
+    color: black;
+    background-color: coral;
+ 
+}
+ 
+.name{  
+    font-size: 18px;
+    color: black;
+}
+ 
+.stage-direction:hover{
+    background-color: rosybrown;
+    color: blueviolet;
+ 
+}
+  
+.gerald{
+    color: seagreen;
+}
+ 
+.lordillingworth{
+    color: cyan;
+}
