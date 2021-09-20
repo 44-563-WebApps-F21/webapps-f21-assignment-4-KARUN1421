@@ -30,3 +30,25 @@
 .lordillingworth{
     color: cyan;
 }
+
+table {
+    border: 1px solid black;
+    width: 60%;
+  }
+ 
+th {
+    border: 1px solid black;
+    color: firebrick;
+    text-align: left;
+}
+ 
+td {
+    border: 1px solid black;
+    color: goldenrod;
+    text-align: left;
+}
+ 
+tr:nth-child(even) {
+    background-color: lavender;
+}
+
